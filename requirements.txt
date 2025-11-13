@@ -1,0 +1,12 @@
+"""
+langchain>=0.0.300
+chromadb>=0.3.34
+openai>=0.27.0
+streamlit>=1.20.0
+pymupdf>=1.22.0
+tiktoken
+sentence-transformers
+rank_bm25
+faiss-cpu
+python-dotenv
+"""
