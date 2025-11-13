@@ -1,5 +1,5 @@
 """
-AI Research Assistant
+M2 Research Assistant
 Author  : Md Mahbubur Rahman
 License : Apache 2.0  
 GitHub  : https://github.com/m-a-h-b-u-b/m2-research-assistant
